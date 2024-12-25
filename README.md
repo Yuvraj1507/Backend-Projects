@@ -1,2 +1,2 @@
 # Backend-Projects
-"A collection of backend development projects, featuring server-side applications, APIs, database integrations, and system design. This repository showcases implementations using technologies like Java, Spring Boot, Node.js, and others, focusing on building scalable and efficient backend systems."
+"A collection of backend projects 🖥️ built using technologies like Java 🟨, Spring Boot 🚀, Node.js 🌱, and databases like MySQL/PostgreSQL 🗄️. These projects focus on creating robust, scalable, and secure APIs and server-side applications that power modern web solutions ⚙️🔒."
